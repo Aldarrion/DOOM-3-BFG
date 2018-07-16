@@ -1,0 +1,12 @@
+build/**
+neo/amplitude/Debug/**
+neo/amplitude/Release/**
+neo/amplitude/Retail/**
+neo/.vs/**
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
